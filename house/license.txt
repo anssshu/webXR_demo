@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wedding house
+* source:	https://sketchfab.com/3d-models/wedding-house-b50ea7562e754143954659a95bb35e29
+* author:	ameliedr (https://sketchfab.com/ameliedr)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wedding house" (https://sketchfab.com/3d-models/wedding-house-b50ea7562e754143954659a95bb35e29) by ameliedr (https://sketchfab.com/ameliedr) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
