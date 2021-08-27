@@ -1,17 +1,3 @@
-# WebXR demo 
-
-for this demoto work webxr plugin for to be installed in godot.
-
-then the project to be exported to html5
-
-then it must be served with a https server
-
-the server code is in https-server.py for local server setup
-
-server.pem is the key for https serving local
-
-
-
 # taken from http://www.piware.de/2011/01/creating-an-https-server-in-python/
 # generate server.xml with the following command:
 #    openssl req -new -x509 -keyout server.pem -out server.pem -days 365 -nodes
@@ -27,6 +13,4 @@ httpd = BaseHTTPServer.HTTPServer(('localhost', 8000), SimpleHTTPServer.SimpleHT
 httpd.socket = ssl.wrap_socket (httpd.socket, certfile='./server.pem', server_side=True)
 print("https server running on port 8000")
 httpd.serve_forever()
-
-
 
